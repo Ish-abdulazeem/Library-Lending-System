@@ -23,3 +23,9 @@ A relational database project developed using PostgreSQL to manage library books
 ## Project Status
 
 Currently in development.
+
+## How to Run
+
+1. Create database: `CREATE DATABASE library_lending_system;`
+2. Run schema files in order (01, 02, ...).
+3. Run `seed_data.sql` to insert sample data.
